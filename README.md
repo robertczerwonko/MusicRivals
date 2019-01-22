@@ -24,6 +24,6 @@ Goal is to integrate, so 2 players answers on one mobile device (guess the song 
 ![](gameplayMR.gif)
 
 ## APK ##
-MusicRivals.apk 
-Androind 5.0 + 
-23mb free space
+MusicRivals.apk <br />
+Androind 5.0 + <br />
+50mb free space

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 228cbe906f57eac49a928f0abf4107dd, type: 3}
+  m_Name: Third
+  m_EditorClassIdentifier: 
+  CategoryName: Third
+  Songs:
+  - audio: {fileID: 8300000, guid: d9011517b80ca2446b5d5dd485c13e02, type: 3}
+    CorrectAnswer: Third
+    FalseAnswers:
+    - false
+    - false
+    - false
+  - audio: {fileID: 8300000, guid: d9011517b80ca2446b5d5dd485c13e02, type: 3}
+    CorrectAnswer: Third2
+    FalseAnswers:
+    - false2
+    - false2
+    - false2

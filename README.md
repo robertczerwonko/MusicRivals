@@ -6,7 +6,6 @@ Goal is to integrate, so 2 players answers on one mobile device (guess the song 
 
 - [Game Rules](#game-rules)
 - [Demo gif](#demo-gif) 
-- [APK](#apk)
 
 ## Game rules #
 1. Add players to the game (min. 2)
@@ -23,7 +22,3 @@ Goal is to integrate, so 2 players answers on one mobile device (guess the song 
 ### Gameplay
 ![](gameplayMR.gif)
 
-## APK ##
-MusicRivals.apk <br />
-Androind 5.0 + <br />
-50mb free space

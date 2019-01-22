@@ -1,7 +1,7 @@
 # MusicRivals
-Music game, 2 players, 1 mobile device
-Simple UI based game, where you create 2 teams (min. players 2)
-Goal is to integrate, so 2 players answers on One mobile device (Guess the song name and title)
+Music game 2 players - 1 mobile device.
+Simple UI based game, where you create 2 teams (min. players 2).
+Goal is to integrate, so 2 players answers on One mobile device (Guess the song name and title).
 ## Table of Contents
 
 - [Game Rules](#game-rules)
